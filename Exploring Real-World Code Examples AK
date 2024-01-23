@@ -1,0 +1,32 @@
+Code that specifies when an alarm clock should start making audible sounds.
+Link: https://github.com/ROSHAN-KHANDAGALE/Alarm-Clock/blob/main/main.py The line numbers for this would be 6-14. This code is showing the code of an alarm clock being set to a time appropriate for the user and when it should ring and when it should give the option to sleep according to their localtime. In real life this code applies to an alarm clock that wakes a person up within their choice of time and gives the option to snooze/sleep.
+Code for a rocket targeting system.
+ Link: https://github.com/prizers/06_Rocket/blob/master/ControlTask.cs
+ Line numbers 7-15. The code talks about the control of the rocket and the exact target spot. There is no pseudocode but the variables are relative to their bound. Talks about the calculation between the rockets target and location. Used to track down rockets as well as detonate it. 
+File compression utility algorithm.
+Link:https://github.com/SamirPaulb/txt-compressor/blob/main/codec_implementation.js
+Line numbers are 64-76; The code talks about the file compression algorithm and how it is a part of the map but it is only equal to 1. Make large files compressed.
+Weather forecasting algorithm.
+Link: https://github.com/iwasrobbed/Forecastr/blob/master/Forecastr/Forecastr.h
+Line numbers 125-126; This code is representing the numerical value representing the distance to the storm. This overall code outlines for the given location and time of the storm. Shows actual weather forecast as well as prediction for future.
+E-commerce checkout system process
+Link: https://github.com/Riadz/E-commerce/blob/master/checkout.php
+Line Numbers 1-163 talks about the process of the ecommerce checkout and the way it is done via the whole system. Shows the payment methods as well as the address just like in the real world. online way to shop as well as pay wihtout a hassle.
+Social media post scheduler
+Link: https://github.com/orangegarage/Hackathon/blob/master/athensbot.js
+Line numbers are 19-130; How a manager sets up an event and how they control the tweets as well as the retweets on twitter. Relates to real life twitter managers and how they control their site. 
+Fitness app calorie counter.
+Link: https://github.com/turulomio/caloriestracker/blob/master/caloriestracker/caloriestracker_console.py
+Line numbers are 13-103. This is the relation to the calorie maker as well as its marker and how it is setup. This relates to the real life in the case that people and companies make apps for clients as well as apps for the fitness people or other users. 
+Online voting system mechanics.
+Link: https://github.com/shah-deep/Online-Voting-System/blob/main/Server.py
+Line numbers are 11-37. The code is talking about the connection of the voter and then their vote selection as well as the confirmation. In real life it is the smae thing as the online voting system that allows a user to enter their identification and then enter in who they want and then confirm it and then the connection diminished as they are done. 
+Automated email response system
+Link: https://github.com/sunborn23/python-email-autoresponder/blob/master/autoresponder.config.ini
+Line numbers are 1-23. The online responce system is setup automatically and then in real life it is setup to allow the system to take the name of the person and then give an automated reply for calling back with a message prerecorded from the user. 
+Online Checking account balance
+Link:https://github.com/saadmk11/banking-system/blob/master/transactions/models.py
+Line number: 7-30. This is the online banking checking system that users can use to see their balance and etc. In real life this is the balance that users can access. 
+Toothbrush Timer: https://github.com/13arn/tt03-toothbrush-timer/blob/main/info.yaml 
+Line numbers are LINES 3-61; It makes a code for a 2 minute toothbrush timer with different time amounts.The Toothbrush Timer project is intended to provide a timer for toothbrushing. It implies that the code helps users keep in check for their brushing time for their white clean teeth.
+WashingMachineArduinoTimer: https://github.com/salihmarangoz/WashingMachineArduinoTimer This involves an timer for a washing machine. This type of timer can be used to control functions of the washing machines. LINES 36-246 were from the code that relates to the wahing machine timer.
